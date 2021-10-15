@@ -5,7 +5,7 @@
 > Konvensi penamaan: penulis - nama karya (tahun)
 
 1. [Boethius - **De consolatione philosophiae** (The Consolation of Philosophy) (523)](#The-Consolation-of-Philosophy)
-2. [Haruki Murakami - **After Dark** (2004)][#After-Dark]
+2. [Haruki Murakami - **After Dark** (2004)](#After-Dark)
 
 ### The Consolation of Philosophy
 *Ditulis oleh: F.H. Zuhdi*
