@@ -5,7 +5,8 @@
 > Konvensi penamaan: penulis - nama karya (tahun)
 
 1. [Boethius - **De consolatione philosophiae** (The Consolation of Philosophy) (523)](#The-Consolation-of-Philosophy)
-2. [Haruki Murakami - **After Dark** (2004)](#After-Dark)
+1. [Haruki Murakami - **After Dark** (2004)](#After-Dark)
+1. [Carlo M. Cipolla - **The Basic Laws of Human Stupidity**](#The-Basic-Laws-of-Human-Stupidity)
 
 ### The Consolation of Philosophy
 *Ditulis oleh: F.H. Zuhdi*
@@ -16,3 +17,9 @@ Negarawan Romawi, Boethius, menulis karyanya berjudul *Consolation of Philosophy
 *Ditulis oleh: M.I. Ghozali*
 
 Novel fiksi kesebelas karya Haruki Murakami berlokasi di Tokyo pada malam hari. Bercerita tentang pertemuan antara Mari dan Takahashi yang bertemu lagi setelah dulu pernah bertemu dalam suatu double date bersama kakaknya. Gaya penulisan Murakami yang surreal dan juga durasi buku yang lumayan singkat membuat buku ini menurut saya baik jika dikonsumsi dalam satu kali duduk pada suatu malam yang sepi.
+
+### The Basic Laws of Human Stupidity
+*Ditulis oleh: A.C. Pramaditya*
+
+Buku ini (*Allegro ma non troppo* pada bahasa Italia, artinya "Cepat, tetapi tidak terlalu cepat") merupakan esai dari seorang mantan Profesor Ekonomi Universitas California Berkley, Carlo M. Cipolla. Buku ini membahas mengenai definisi aksiomatis secara formil akan kebodohan; 
+kebodohan disini didefinisikan sebagai seseorang yang menyakiti orang lain tanpa memperoleh keuntungan apa pun untuk dirinya sendiri (no personal gain), berbeda dengan bandit yang jauh lebih dapat diprediksi yang mendapatkan sesuatu dari menyakitimu (personal gain exists). Cipolla menerangkan 5 pasal hukum fundamental kebodohan yang merupakan hasil dari pemikiran Cipolla sendiri. Buku ini asik dan ringan untuk dibaca dikarenakan konsepnya yang mudah dipahami (baik secara lelucon atau harafiah), dan sangat direkomendasikan sebagai bacaan ringan di sore hari.
