@@ -6,7 +6,7 @@
 
 1. [Boethius - **De consolatione philosophiae** (The Consolation of Philosophy) (523)](#The-Consolation-of-Philosophy)
 1. [Haruki Murakami - **After Dark** (2004)](#After-Dark)
-1. [Carlo M. Cipolla - **The Basic Laws of Human Stupidity**](#The-Basic-Laws-of-Human-Stupidity)
+1. [Carlo M. Cipolla - **The Basic Laws of Human Stupidity** (1976)](#The-Basic-Laws-of-Human-Stupidity)
 
 ### The Consolation of Philosophy
 *Ditulis oleh: F.H. Zuhdi*
