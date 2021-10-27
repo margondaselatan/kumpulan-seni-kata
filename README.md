@@ -7,7 +7,7 @@
 1. [Boethius - **De consolatione philosophiae** (The Consolation of Philosophy) (523)](#The-Consolation-of-Philosophy)
 2. [Haruki Murakami - **After Dark** (2004)](#After-Dark)
 3. [Carlo M. Cipolla - **The Basic Laws of Human Stupidity** (1976)](#The-Basic-Laws-of-Human-Stupidity)
-4. [The Last Lecture](#TheLast-Lecture)
+4. [Randy Pausch - **The Last Lecture** (2008)](#TheLast-Lecture)
 
 
 ### The Consolation of Philosophy
