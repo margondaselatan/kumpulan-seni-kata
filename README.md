@@ -30,3 +30,18 @@ kebodohan disini didefinisikan sebagai seseorang yang menyakiti orang lain tanpa
 *Ditulis oleh: M.I. Ghozali*
 
 Buku yang dibuat berdasakan pada tradisi last lecture pada carnegie mellon university, lebih spesifiknya pada last lecture oleh Randy Pausch, seorang professor pada biadang interaksi manusia dan komputer pada universitas tersebut, pada September 2007 yang berjudul "Really Achieving Your Childhood Dreams" yang beliau bawakan setelah terdiagnosis terkena kanker pankreas.
+
+### Another Now
+*Ditulis oleh: A.C. Pramaditya*
+
+Judul buku dengan subjudulnya adalah: **Another Now: Dispatches from an Alternative Present**. Buku ini memberikan kita sistem alternatif akan manajemen dunia.
+
+Meninggalkan cara-cara lama yang sudah lama kita dengar, ataupun cara-cara "baru". Cara-cara "baru" ini terkadang sebenarnya tidak begitu baru, hanya suatu cara agar... seorang atau suatu lembaga mencoba -- dengan menjadikannya sebagai batu loncatan -- menjadi relevan.
+
+Varoufakis, melalui ketiga karakter di buku ini mencoba menggambarkan tiga suara. Suara aktivis kiri zaman 70an, suara ekonom yang bekerja pada Krisis 2008, dan seorang insinyur.
+
+Alih-alih memakai kacamata kuda, sang penulis mencoba mengeksplorasi irisan teknologi-teknologi disruptif serta perannya dalam transisi serta transformasi kepada sistem manajemen dunia yang baik dan baru.
+
+Memakai kacamata feodalisme teknologi, penulis menemukan kesamaan paham kiri dan liberalisme. Dengan begitu, ia melihat masyarakat liberal dan komunis secara teknologi, sebagai masa depan yang baik.
+
+Buku ini adalah bacaan yang menarik dan dapat memberikan harapan, kepada mereka yang lelah dengan hiruk-pikuk dunia yang tak sesuai dengan visi-visi awal para politikus / aparat.
