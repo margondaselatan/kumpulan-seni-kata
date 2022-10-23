@@ -8,6 +8,7 @@
 2. [Haruki Murakami - **After Dark** (2004)](#After-Dark)
 3. [Carlo M. Cipolla - **The Basic Laws of Human Stupidity** (1976)](#The-Basic-Laws-of-Human-Stupidity)
 4. [Randy Pausch - **The Last Lecture** (2008)](#TheLast-Lecture)
+5. [Yanis Varoufakis - **Another Now** (2020](#Another-Now)
 
 
 ### The Consolation of Philosophy
