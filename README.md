@@ -8,7 +8,7 @@
 2. [Haruki Murakami - **After Dark** (2004)](#After-Dark)
 3. [Carlo M. Cipolla - **The Basic Laws of Human Stupidity** (1976)](#The-Basic-Laws-of-Human-Stupidity)
 4. [Randy Pausch - **The Last Lecture** (2008)](#TheLast-Lecture)
-5. [Yanis Varoufakis - **Another Now** (2020](#Another-Now)
+5. [Yanis Varoufakis - **Another Now** (2020)](#Another-Now)
 
 
 ### The Consolation of Philosophy
@@ -39,7 +39,7 @@ Judul buku dengan subjudulnya adalah: **Another Now: Dispatches from an Alternat
 
 Meninggalkan cara-cara lama yang sudah lama kita dengar, ataupun cara-cara "baru". Cara-cara "baru" ini terkadang sebenarnya tidak begitu baru, hanya suatu cara agar... seorang atau suatu lembaga mencoba -- dengan menjadikannya sebagai batu loncatan -- menjadi relevan.
 
-Varoufakis, melalui ketiga karakter di buku ini mencoba menggambarkan tiga suara. Suara aktivis kiri zaman 70an, suara ekonom yang bekerja pada Krisis 2008, dan seorang insinyur.
+Varoufakis, melalui ketiga karakter di buku ini mencoba menggambarkan tiga suara. Suara aktivis kiri zaman 80an, suara ekonom yang bekerja pada Krisis 2008, dan seorang insinyur.
 
 Alih-alih memakai kacamata kuda, sang penulis mencoba mengeksplorasi irisan teknologi-teknologi disruptif serta perannya dalam transisi serta transformasi kepada sistem manajemen dunia yang baik dan baru.
 
