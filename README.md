@@ -9,6 +9,7 @@
 3. [Carlo M. Cipolla - **The Basic Laws of Human Stupidity** (1976)](#The-Basic-Laws-of-Human-Stupidity)
 4. [Randy Pausch - **The Last Lecture** (2008)](#TheLast-Lecture)
 5. [Yanis Varoufakis - **Another Now** (2020)](#Another-Now)
+6. [Ottessa Moshfegh - **My Year of Rest and Relaxation** (2018)](#My-Year-of-Rest-and-Relaxation)
 
 
 ### The Consolation of Philosophy
@@ -46,3 +47,8 @@ Alih-alih memakai kacamata kuda, sang penulis mencoba mengeksplorasi irisan tekn
 Memakai kacamata feodalisme teknologi, penulis menemukan kesamaan paham kiri dan liberalisme. Dengan begitu, ia melihat masyarakat liberal dan komunis secara teknologi, sebagai masa depan yang baik.
 
 Buku ini adalah bacaan yang menarik dan dapat memberikan harapan, kepada mereka yang lelah dengan hiruk-pikuk dunia yang tak sesuai dengan visi-visi awal para politikus / aparat.
+
+### My Year of Rest and Relaxation
+*Ditulis oleh: R.A. Nuriyan*
+
+Karya fiksi dengan latar New York pada awal 2000-an ini menceritakan tentang seorang wanita muda yang mencoba untuk tidur selama setahun penuh karena ingin menjernihkan pikirannya dan mengubah cara pandangnya terhadap dunia. Dari sudut pandang tokoh utama, pembaca dapat menyaksikan berbagai interaksi yang dialaminya dengan orang-orang di sekitarnya, serta memori-memori dari hidupnya yang terkadang muncul dalam mimpi. Buku ini merupakan bacaan yang sesuai bagi sesama wanita muda yang merasa sendirian di tengah hiruk pikuk kota besar, yang merasa hanya ada untuk dipergunakan karena apa yang mereka miliki, yang memandang dunia ini sebagai tempat yang kejam tanpa seorang pun yang benar-benar peduli. Melalui tokoh utama yang digambarkan sebagai sosok yang nyaris sempurna dengan kecantikan dan kekayaannya, tetapi sulit untuk dicintai karena sikapnya yang arogan dan pandangannya yang sinis terhadap orang-orang di sekitarnya, pembaca akan dipaksa untuk bercermin dan menyadari bahwa mungkin saja mereka juga adalah seseorang yang sudah dilukai dan dimanfaatkan oleh lingkungannya, bahwa mungkin saja jauh di dalam dalam diri mereka, ada bagian yang merasa akan terbantu oleh periode tidur selama setahun penuh.
